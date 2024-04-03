@@ -121,7 +121,7 @@ Select "Role-based or feature-based installation" then click Next:  <br/>
 <img src="https://imgur.com/KBtEqkJ.png" height="80%" width="80%" alt="Login to root domain"/>
  <br />
 <br />
-   Open the explorer and select the mounted drive and run:  <br/>
+<!--   Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br />
@@ -140,7 +140,7 @@ Select "Role-based or feature-based installation" then click Next:  <br/>
    Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
-<br />
+<br /> --!>
 </p>
 
 <!--
