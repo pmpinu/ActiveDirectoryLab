@@ -117,8 +117,8 @@ Select "Role-based or feature-based installation" then click Next:  <br/>
 <img src="https://imgur.com/tbUIDuI.png" height="80%" width="80%" alt="Restart"/>
  <br />
 <br />
-   Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+   Once restarted, you will see <root-domain-name>/Administrator, in my case, LABDOMAIN/Administrator. Login:  <br/>
+<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Login to root domain"/>
  <br />
 <br />
    Open the explorer and select the mounted drive and run:  <br/>
