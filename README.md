@@ -41,8 +41,8 @@ Select the disk drive allocated to this virtual machine. This is the virtual dis
 <img src="https://imgur.com/NeL1W3B.png" height="80%" width="80%" alt="Windows Server 2019 setup, select disk drive"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After installion steps have completed, you'll be presented with a screen to create a password for the admin account:  <br/>
+<img src="https://imgur.com/GvJL7FB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
