@@ -58,11 +58,11 @@ Keep the default selected options throughout the setup process:  <br/>
  <br />
 <br />
 Once installation of VMware Tools is finished, restart your virtual machine and log back in. In our initial virtual machine configuration, we assigned an additional virtual NIC (Ethernet1). In this step, we're going to assign it an IP address by opening up the properties of Ethernet1 and then navigating to the properties of TCP/IPv4. Ethernet0 will be internet-facing while Ethernet1 will be our internal network adapter. Since we will be using Windows Server itself as a DNS server, we can assign loopback IP for our DNS</i>:  <br/>
-<img src="https://imgur.com/fHigGFZ.png" height="80%" width="80%" alt="VMware Tools"/>
+<img src="https://imgur.com/fHigGFZ.png" height="80%" width="80%" alt="NIC configuration"/>
  <br />
 <br />
-Open the explorer and select the mounted drive and run <i>setup64</i>:  <br/>
-<img src="https://imgur.com/1qs47Bt.png" height="80%" width="80%" alt="VMware Tools"/>
+In the next step, we're going to rename our PC. You can navigate to windows search and type in "rename" to navigate to system settings</i>:  <br/>
+<img src="https://imgur.com/73CvQ9Z.png" height="80%" width="80%" alt="Rename pc"/>
  <br />
 <br />
 Open the explorer and select the mounted drive and run <i>setup64</i>:  <br/>
