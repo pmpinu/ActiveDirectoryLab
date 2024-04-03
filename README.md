@@ -93,28 +93,28 @@ Select "Role-based or feature-based installation" then click Next:  <br/>
 <img src="https://imgur.com/C38oJRn.png" height="80%" width="80%" alt="add a new forest and root domain"/>
  <br />
 <br />
-  Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+  Create DSRM password:  <br/>
+<img src="https://imgur.com/WTuyc23.png" height="80%" width="80%" alt="DSRM password"/>
  <br />
 <br />
-  Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+  Deselect "Create DNS delegation" then click next:  <br/>
+<img src="https://imgur.com/nBbLe5K.png" height="80%" width="80%" alt="AD DS Configuration Wizard"/>
  <br />
 <br />
-   Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+   Once the NetBIOS domain name populates, click next:  <br/>
+<img src="https://imgur.com/AuNC3ib.png" height="80%" width="80%" alt="NetBIOS domain name"/>
  <br />
 <br />
-   Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+   Keep everything as is for Database locations then click next on subsequent screens:  <br/>
+<img src="https://imgur.com/BF0juq1.png" height="80%" width="80%" alt="AD DS Database"/>
  <br />
 <br />
-   Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+   Click install:  <br/>
+<img src="https://imgur.com/h8cYhlu.png" height="80%" width="80%" alt="Prerequisites check"/>
  <br />
 <br />
-   Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+   Once installation is complete, the Windows Server will restart to apply changes:  <br/>
+<img src="https://imgur.com/tbUIDuI.png" height="80%" width="80%" alt="Restart"/>
  <br />
 <br />
    Open the explorer and select the mounted drive and run:  <br/>
