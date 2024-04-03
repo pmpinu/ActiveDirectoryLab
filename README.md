@@ -70,23 +70,27 @@ After your machine restarts, click on "Add roles and features" from the Server M
  <br />
 <br />
 Select "Role-based or feature-based installation" then click Next:  <br/>
-<img src="https://imgur.com/6Kss9Om.png" height="80%" width="80%" alt="VMware Tools"/>
+<img src="https://imgur.com/6Kss9Om.png" height="80%" width="80%" alt="Adding roles"/>
  <br />
 <br />
  Select the DC:  <br/>
-<img src="https://imgur.com/I40BAmN.png" height="80%" width="80%" alt="VMware Tools"/>
+<img src="https://imgur.com/I40BAmN.png" height="80%" width="80%" alt="Adding roles"/>
  <br />
 <br />
  Select "Active Directory Domain Services" then click next:  <br/>
-<img src="https://imgur.com/rWlOi2v.png" height="80%" width="80%" alt="VMware Tools"/>
+<img src="https://imgur.com/rWlOi2v.png" height="80%" width="80%" alt="Adding roles"/>
  <br />
 <br />
  On the confirmation window, select Install:  <br/>
-<img src="https://imgur.com/fgBfe5e.png" height="80%" width="80%" alt="VMware Tools"/>
+<img src="https://imgur.com/fgBfe5e.png" height="80%" width="80%" alt="Install"/>
  <br />
 <br />
   Once installation is complete, select "Promote this server to a domain controller" by clicking the yellow flag on the top right of the Server Manager Dashboard:  <br/>
-<img src="https://imgur.com/pp56uQy.png" height="80%" width="80%" alt="VMware Tools"/>
+<img src="https://imgur.com/pp56uQy.png" height="80%" width="80%" alt="Promote domain controller"/>
+ <br />
+<br />
+  The AD DS Configuration Wizard should launch next. Select "Add a new forest" and name the root domain:  <br/>
+<img src="https://imgur.com/C38oJRn.png" height="80%" width="80%" alt="add a new forest and root domain"/>
  <br />
 <br />
   Open the explorer and select the mounted drive and run:  <br/>
@@ -97,7 +101,43 @@ Select "Role-based or feature-based installation" then click Next:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br />
-  Open the explorer and select the mounted drive and run:  <br/>
+   Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+   Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+   Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+   Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+   Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+   Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+   Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+   Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+   Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+   Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br />
