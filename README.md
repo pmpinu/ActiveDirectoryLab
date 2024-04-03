@@ -37,8 +37,8 @@ Since we don't have an existing installtion of Windows Server 2019 on the disk s
 <img src="https://imgur.com/dVv2dMG.png" height="80%" width="80%" alt="Windows Server 2019 setup, custom install"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select the disk drive allocated to this virtual machine. This is the virtual disk drive Windows Server 2019 will be installed on:  <br/>
+<img src="https://imgur.com/NeL1W3B.png" height="80%" width="80%" alt="Windows Server 2019 setup, select disk drive"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
