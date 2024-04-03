@@ -65,23 +65,39 @@ In the next step, we're going to rename our PC. You can navigate to windows sear
 <img src="https://imgur.com/73CvQ9Z.png" height="80%" width="80%" alt="Rename pc"/>
  <br />
 <br />
-Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+After your machine restarts, click on "Add roles and features" from the Server Manager Dashboard to begin the Active Directory Domain Service (AD DS) installation process. On the first window of the wizard, click Next:  <br/>
+<img src="https://imgur.com/7ltvZde.png" height="80%" width="80%" alt="Adding roles and features"/>
  <br />
 <br />
-Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+Select "Role-based or feature-based installation" then click Next:  <br/>
+<img src="https://imgur.com/6Kss9Om.png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+ Select the DC:  <br/>
+<img src="https://imgur.com/I40BAmN.png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+ Select "Active Directory Domain Services" then click next:  <br/>
+<img src="https://imgur.com/rWlOi2v.png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br />
  Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br />
- Open the explorer and select the mounted drive and run:  <br/>
+  Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br />
- Open the explorer and select the mounted drive and run:  <br/>
+  Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+  Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+  Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br />
