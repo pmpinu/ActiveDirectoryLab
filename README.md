@@ -21,7 +21,7 @@ This lab demonstrates how to install and configure an Active Directory inside of
 - <b>Windows 10</b> (22H2)
 - <b>Windows Server 2019</b> (1748.rs5)
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 
 <p align="center">
