@@ -25,7 +25,7 @@ This lab demonstrates how to install and configure an Active Directory inside of
 
 
 <p align="center">
-Configuring virtual machine settings for Windows Server 2019: <br/>
+Configuring virtual machine settings for Windows Server 2019. Be sure to add an additional virtual network adapter: <br/>
 <img src="https://imgur.com/ingdTGl.png" height="80%" width="80%" alt="Virtual Machine Settings"/>
 <br />
 <br />
@@ -57,8 +57,8 @@ Keep the default selected options throughout the setup process:  <br/>
 <img src="https://imgur.com/vdq0FJf.png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br />
-Open the explorer and select the mounted drive and run <i>setup64</i>:  <br/>
-<img src="https://imgur.com/1qs47Bt.png" height="80%" width="80%" alt="VMware Tools"/>
+Once installation of VMware Tools is finished, restart your virtual machine and log back in. In our initial virtual machine configuration, we assigned an additional virtual NIC. In this step, we're going to assign it an IP address</i>:  <br/>
+<img src="https://imgur.com/fHigGFZ.png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br />
 Open the explorer and select the mounted drive and run <i>setup64</i>:  <br/>
