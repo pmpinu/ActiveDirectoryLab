@@ -42,15 +42,31 @@ Select the disk drive allocated to this virtual machine. This is the virtual dis
 <br />
 <br />
 After installion steps have completed, you'll be presented with a screen to create a password for the admin account:  <br/>
-<img src="https://imgur.com/GvJL7FB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/GvJL7FB.png" height="80%" width="80%" alt="Admin password creation"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The next step will present you with a login screen. Enter the password you just created and then install VMware Tools by going to <i>File > Manage > Install VMware Tools</i>:  <br/>
+<img src="https://imgur.com/HsgJ2S3.png" height="80%" width="80%" alt="Install VMware Tools"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open the explorer and select the mounted drive and run <i>setup64</i>:  <br/>
+<img src="https://imgur.com/1qs47Bt.png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+Keep the default selected options throughout the setup process:  <br/>
+<img src="https://imgur.com/vdq0FJf.png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+Open the explorer and select the mounted drive and run <i>setup64</i>:  <br/>
+<img src="https://imgur.com/1qs47Bt.png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+Open the explorer and select the mounted drive and run <i>setup64</i>:  <br/>
+<img src="https://imgur.com/1qs47Bt.png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br />
+Open the explorer and select the mounted drive and run <i>setup64</i>:  <br/>
+<img src="https://imgur.com/1qs47Bt.png" height="80%" width="80%" alt="VMware Tools"/>
 </p>
 
 <!--
