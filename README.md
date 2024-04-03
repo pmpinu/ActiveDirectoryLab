@@ -29,12 +29,12 @@ Configuring virtual machine settings for Windows Server 2019: <br/>
 <img src="https://imgur.com/ingdTGl.png" height="80%" width="80%" alt="Virtual Machine Settings"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once you've launched the virtual machine, in the second step of the setup process, you will want to select one of the desktop experience options.:  <br/>
+<img src="https://imgur.com/PJjxj97.png" height="80%" width="80%" alt="Windows Server 2019 setup"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Since we don't have an existing installtion of Windows Server 2019 on the disk space allocated to this virtual machine, we are going to select <i>Custom: Install Windows only (advanced)</i>: <br/>
+<img src="https://imgur.com/dVv2dMG.png" height="80%" width="80%" alt="Windows Server 2019 setup, custom install"/>
 <br />
 <br />
 Confirm your selection:  <br/>
