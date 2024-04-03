@@ -61,7 +61,7 @@ Once installation of VMware Tools is finished, restart your virtual machine and 
 <img src="https://imgur.com/fHigGFZ.png" height="80%" width="80%" alt="NIC configuration"/>
  <br />
 <br />
-In the next step, we're going to rename our PC. You can navigate to windows search and type in "rename" to navigate to system settings</i>:  <br/>
+In the next step, we're going to rename our PC. You can navigate to windows search and type in "rename" to navigate to system settings where we can rename our PC. I'm going to use "DC" for Domain Controller</i>:  <br/>
 <img src="https://imgur.com/73CvQ9Z.png" height="80%" width="80%" alt="Rename pc"/>
  <br />
 <br />
