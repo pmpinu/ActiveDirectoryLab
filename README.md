@@ -142,8 +142,8 @@ We still need to add Jane Doe as an admin user. Right-click on the user's name, 
 <img src="https://imgur.com/VeFcMWn.png" height="80%" width="80%" alt="Domain Admin"/>
  <br />
 <br /> 
-       Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+Now we're going to login with the dedicated admin user we just created. So logout then select "Other User" on the bottom left corner of the login screen and enter credentials. Once you're logged in, open up the command prompt to confirm you're logged in as the newly created user:  <br/>
+<img src="https://imgur.com/VgXLi7E.png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br /> 
        Open the explorer and select the mounted drive and run:  <br/>
