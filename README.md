@@ -138,8 +138,8 @@ Now let's create a new user inside of our new OU and give the user an identity a
 <img src="https://imgur.com/K1EW76U.png" height="80%" width="80%" alt="Create user in _ADMIN OU"/>
  <br />
 <br /> 
-       Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+We still need to add Jane Doe as an admin user. Right-click on the user's name, select <i>properties</i> then navigate to the <i>Member Of</i> tab, then select <i>Add</i>. Then enter "Domain Admins" and click <i>Check Names</i>. Then select <i>Ok > Apply > Ok </i>:  <br/>
+<img src="https://imgur.com/VeFcMWn.png" height="80%" width="80%" alt="Domain Admin"/>
  <br />
 <br /> 
        Open the explorer and select the mounted drive and run:  <br/>
