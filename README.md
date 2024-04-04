@@ -121,26 +121,51 @@ Select "Role-based or feature-based installation" then click Next:  <br/>
 <img src="https://imgur.com/KBtEqkJ.png" height="80%" width="80%" alt="Login to root domain"/>
  <br />
 <br />
-<!--   Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+Create a dedicated domian admin account instead of a built in admin account. Go to <i>Start > Windows Administrative Tools > Active Directory Users and Computers</i>. Then create an Organizational Unit and name it _ADMINS:  <br/>
+<img src="https://imgur.com/DDyerYE.png" height="80%" width="80%" alt="Dedicated admin user in OU"/>
  <br />
 <br />
-   Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+<img src="https://imgur.com/HBfoCj9.png" height="80%" width="80%" alt="Dedicated admin user in OU"/>
  <br />
 <br />
-   Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+Now let's create a new user inside of our new OU and give the user an identity and a password. Then click finish:  <br/>
+<img src="https://imgur.com/3hyqmOk.png" height="80%" width="80%" alt="Create user in _ADMIN OU"/>
  <br />
 <br />
-   Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+<img src="https://imgur.com/yig7LmN.png" height="80%" width="80%" alt="Create user in _ADMIN OU"/>
  <br />
 <br />
-   Open the explorer and select the mounted drive and run:  <br/>
+<img src="https://imgur.com/K1EW76U.png" height="80%" width="80%" alt="Create user in _ADMIN OU"/>
+ <br />
+<br /> 
+       Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
-<br /> --!>
+<br /> 
+       Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+       Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+       Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+       Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+       Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+       Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
 </p>
 
 <!--
