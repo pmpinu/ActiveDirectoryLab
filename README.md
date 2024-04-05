@@ -157,22 +157,38 @@ Select Remote Access:  <br/>
 <img src="https://imgur.com/GSuxDE9.png" height="80%" width="80%" alt="Remote Access"/>
  <br />
 <br /> 
-Select Routing, then proceed to install with default options on the subsequent stages:  <br/>
+Select Routing, then proceed to install with default options on the subsequent stages. Once install completes, close the window:  <br/>
 <img src="https://imgur.com/Octf8lZ.png" height="80%" width="80%" alt="Routing and Install"/>
  <br />
 <br /> 
-<img src="https://imgur.com/VPBJCLO.png" height="80%" width="80%" alt="VMware Tools"/>
+<img src="https://imgur.com/VPBJCLO.png" height="80%" width="80%" alt=""/>
  <br />
 <br /> 
-Open the explorer and select the mounted drive and run:  <br/>
+To configure Routing, navigate to "Tools" on the top right menu of the Server Manager Dashboard, select "Routing and Remote Access":  <br/>
+<img src="https://imgur.com/XerLCgE.png" height="80%" width="80%" alt="Configure routing"/>
+ <br />
+<br /> 
+Select configure option on the DC by right clicking on it:  <br/>
+<img src="https://imgur.com/D0ferBz.png" height="80%" width="80%" alt=""/>
+ <br />
+<br /> 
+Select NAT:  <br/>
+<img src="https://imgur.com/hJTLjnD.png" height="80%" width="80%" alt="Select NAT"/>
+ <br />
+<br /> 
+Select our internet facing adapter then proceed to install:  <br/>
+<img src="https://imgur.com/qFx5yzA.png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+ Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br /> 
-Open the explorer and select the mounted drive and run:  <br/>
+ Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br /> 
-Open the explorer and select the mounted drive and run:  <br/>
+ Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br /> 
