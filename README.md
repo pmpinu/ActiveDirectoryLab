@@ -146,23 +146,37 @@ Now we're going to login with the dedicated admin user we just created. So logou
 <img src="https://imgur.com/VgXLi7E.png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br /> 
-       Open the explorer and select the mounted drive and run:  <br/>
+Since our Windows 10 VM will also be using an internal NIC, let's configure NAT so that it can have internet access. On the Server Manager dashboard, click on Add roles and features, then click Next, make sure "Role-based or feature-based installation" is selected, click Next:  <br/>
+<img src="https://imgur.com/GoxTpVM.png" height="80%" width="80%" alt=""/>
+ <br />
+<br /> 
+<img src="https://imgur.com/CylsY1F.png" height="80%" width="80%" alt=""/>
+ <br />
+<br /> 
+Select Remote Access:  <br/>
+<img src="https://imgur.com/GSuxDE9.png" height="80%" width="80%" alt="Remote Access"/>
+ <br />
+<br /> 
+Select Routing, then proceed to install with default options on the subsequent stages:  <br/>
+<img src="https://imgur.com/Octf8lZ.png" height="80%" width="80%" alt="Routing and Install"/>
+ <br />
+<br /> 
+<img src="https://imgur.com/VPBJCLO.png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br /> 
-       Open the explorer and select the mounted drive and run:  <br/>
+Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br /> 
-       Open the explorer and select the mounted drive and run:  <br/>
+Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br /> 
-       Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
- <br />
-<br /> 
-       Open the explorer and select the mounted drive and run:  <br/>
+ Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br /> 
