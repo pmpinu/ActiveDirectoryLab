@@ -180,6 +180,24 @@ Select our internet facing adapter then proceed to install:  <br/>
 <img src="https://imgur.com/qFx5yzA.png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
 <br /> 
+Our internet facing NIC is assigned an IP address by the DHCP server running on the router. For our internal client that we'll be installing (Windows 10), we will install a DHCP server on our domain controller so that IPs can be assigned to inetrnal clients. Navigate to "Add roles and features" and install DHCP server:  <br/>
+<img src="https://imgur.com/D9YhUb1.png" height="80%" width="80%" alt="DHCP"/>
+ <br />
+<br /> 
+ Once DHCP server is installed, go to the DHCP setting by selecting "DHCP" from the "Tools" menu on the top right. We need to tell the DHCP server whichi IP addresses it's allowed to assign to hosts. Right-click on "IPv4" and select "New Scope". For the name, I'm putting in a subset of usable host range IPs 192.168.3.10 - 100, then enter the range and subnet mask. The default gateway is going to be the DC internal NIC IP:<br/>
+<img src="https://imgur.com/LJCIt6z.png" height="80%" width="80%" alt="DHCP"/>
+ <br />
+<br /> 
+<img src="https://imgur.com/D6JMQkg.png" height="80%" width="80%" alt="DHCP"/>
+ <br />
+<br /> 
+<img src="https://imgur.com/jlKsN2L.png" height="80%" width="80%" alt="DHCP"/>
+ <br />
+<br />
+Keep the parent domain name as is. Keep defaults in the next steps then activate scope and finish the process:<br/>
+<img src="https://imgur.com/ieHczsY.png" height="80%" width="80%" alt="DHCP"/>
+ <br />
+<br /> 
  Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
