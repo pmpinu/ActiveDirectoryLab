@@ -198,12 +198,11 @@ Keep the parent domain name as is. Keep defaults in the next steps then activate
 <img src="https://imgur.com/ieHczsY.png" height="80%" width="80%" alt="DHCP"/>
  <br />
 <br /> 
- Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+In the next step, right-click on the domain and select "Authorize" and then repeat and select "Refresh". The changes should reflect as shown:<br/>
+<img src="https://imgur.com/z0eLvdW.png" height="80%" width="80%" alt="DHCP"/>
  <br />
 <br /> 
- Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+<img src="https://imgur.com/Y4qWOkg.png" height="80%" width="80%" alt="DHCP"/>
  <br />
 <br /> 
  Open the explorer and select the mounted drive and run:  <br/>
