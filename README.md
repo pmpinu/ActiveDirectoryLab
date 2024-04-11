@@ -212,8 +212,8 @@ In the next steps, I'm using a PowerShell script in order to automate the user c
 <img src="https://imgur.com/hxEYheB.png" height="80%" width="80%" alt="Automation with PowerShell ISE"/>
  <br />
 <br /> 
- Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+In the next steps, create a new virtual machine and install Windows 10. You will want to set your network adapter to the Custom VMnet0 so that this VM will be on the same internal subnet as the domain controller. On the login screen, create a user and once you are on the desktop, you can check to confirm that DC DHCP server has assigned the windows client an IP within the range we specified earlier:<br/>
+<img src="https://imgur.com/028BnJ9.png" height="80%" width="80%" alt="Windows 10 Client up"/>
  <br />
 <br /> 
  Open the explorer and select the mounted drive and run:  <br/>
