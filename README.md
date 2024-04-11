@@ -1,4 +1,4 @@
-<h1>Active Directory Home Lab Tutorial</h1>
+<h1>Active Directory Lab Tutorial</h1>
 
 
 <h2>Description</h2>
