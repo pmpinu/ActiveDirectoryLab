@@ -220,34 +220,11 @@ In this step, I'm adding the W10 VM client to labdomian by going into the advanc
 <img src="https://imgur.com/3nyy3rz.png" height="80%" width="80%" alt="Add domain client"/>
  <br />
 <br /> 
- Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+After the W10 client is successfully added to labdomain and has restarted, I can now login in using any one of the users created by the PowerShell script by using the password specified in the script: <br/>
+<img src="https://imgur.com/9gHTBaQ.png" height="80%" width="80%" alt="Logging in as a new labdomain user"/>
  <br />
 <br /> 
- Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
- <br />
-<br /> 
- Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
- <br />
-<br /> 
- Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
- <br />
-<br /> 
- Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
- <br />
-<br /> 
- Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
- <br />
-<br /> 
- Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
- <br />
-<br /> 
+ That concludes our lab of creating a mini corporate environment with Active Directory.
 </p>
 
 <!--
