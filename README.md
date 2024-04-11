@@ -216,8 +216,8 @@ In the next steps, create a new virtual machine and install Windows 10. You will
 <img src="https://imgur.com/028BnJ9.png" height="80%" width="80%" alt="Windows 10 Client up"/>
  <br />
 <br /> 
- Open the explorer and select the mounted drive and run:  <br/>
-<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+In this step, I'm adding the W10 VM client to labdomian by going into the advanced PC rename system setting:<br/>
+<img src="https://imgur.com/3nyy3rz.png" height="80%" width="80%" alt="Add domain client"/>
  <br />
 <br /> 
  Open the explorer and select the mounted drive and run:  <br/>
