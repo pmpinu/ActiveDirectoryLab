@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This lab demonstrates how to install and configure an Active Directory inside of a virtual machine. We are going to be installing <b>Windows Server 2019</b> and <b>Windows 10</b> inside of a VMWare virtual machine. We will also be using PowerShell to add objects inside of a Domain.
+This lab demonstrates how to install and configure an Active Directory inside of a virtual machine. We are going to be installing <b>Windows Server 2019</b> and <b>Windows 10</b> inside of a VMWare virtual machine, we will then be using PowerShell ISE to add objects(users and groups) inside of a Domain, and lastly, we will be logging in with a created user.
 
 <br/><b><i>***Core Active Directory Concept:</b> <br/>
 - A Forest is a collection of Domains. <br/>
