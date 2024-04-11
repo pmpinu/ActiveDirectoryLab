@@ -205,6 +205,41 @@ In the next step, right-click on the domain and select "Authorize" and then repe
 <img src="https://imgur.com/Y4qWOkg.png" height="80%" width="80%" alt="DHCP"/>
  <br />
 <br /> 
+In the next steps, I'm using a PowerShell script in order to automate the user creation process:<br/>
+<img src="https://imgur.com/5AVlPQC.png" height="80%" width="80%" alt="PowerShell User Creation Script"/>
+ <br />
+<br /> 
+<img src="https://imgur.com/hxEYheB.png" height="80%" width="80%" alt="Automation with PowerShell ISE"/>
+ <br />
+<br /> 
+ Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+ Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+ Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+ Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+ Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+ Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
+ Open the explorer and select the mounted drive and run:  <br/>
+<img src=".png" height="80%" width="80%" alt="VMware Tools"/>
+ <br />
+<br /> 
  Open the explorer and select the mounted drive and run:  <br/>
 <img src=".png" height="80%" width="80%" alt="VMware Tools"/>
  <br />
